@@ -1,6 +1,12 @@
 /**
+*
+* visto dal prof Gervasi
+*/
+
+
+/**
  * <b> Class Trapezio </b>
- * <h4>Questa classe permetter‡ di calcolare l'area del trapezio</h4>
+ * <h4>Questa classe permetter≈ï di calcolare l'area del trapezio</h4>
  * <h2>Variabili</h2>
  * <h5>bMag= base maggiore del trapezio</h5><br>
  * <h5>bMin=base minore del trapezio</h5><br>
